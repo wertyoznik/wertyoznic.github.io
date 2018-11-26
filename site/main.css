@@ -1,0 +1,44 @@
+p {
+	/*Можно менять*/
+	font-size: 32px;
+	/*Можно менять*/
+	color: orange;
+}
+
+main {
+	/*Можно менять*/
+	width: 90%;
+	/*Ничего не трогаем*/
+	margin: auto;
+	/*Ничего не трогаем*/
+	max-width: 1000px;
+	/*Ничего не трогаем*/
+	background-color: #fff;
+	/*Ничего не трогаем*/
+	padding: 50px;
+}
+
+body {
+	/*Можно менять*/
+	background-color: #fff5ea; 
+	/*Ничего не трогаем*/
+	margin: 0;
+}
+
+img {
+	/*Ничего не трогаем*/
+	display: block;
+	/*Ничего не трогаем*/
+	max-width: 100%;
+}
+
+h1 {
+	/*Можно менять*/
+	font-size: 60px;
+	/*Можно менять*/
+	color: orange;
+	/*Ничего не трогаем*/
+	text-align: center;
+	/*Ничего не трогаем*/
+	margin-top: 0;
+}
